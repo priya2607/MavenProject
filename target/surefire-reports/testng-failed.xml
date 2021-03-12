@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="exicuteTestCases(failed)">
+    <classes>
+      <class name="com.Hackatone.TestClasses.GetHomeItems">
+        <methods>
+          <include name="getHomeListItems_two"/>
+          <include name="endReport"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.Hackatone.TestClasses.GetHomeItems -->
+      <class name="com.Hackatone.TestClasses.GiftCard">
+        <methods>
+          <include name="endReport"/>
+          <include name="afterTest"/>
+          <include name="testForGiftCards" invocation-numbers="1 2 4 5 6 7 8 9 10 11 13"/>
+        </methods>
+      </class> <!-- com.Hackatone.TestClasses.GiftCard -->
+    </classes>
+  </test> <!-- exicuteTestCases(failed) -->
+</suite> <!-- Failed suite [Suite] -->

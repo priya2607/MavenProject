@@ -1,0 +1,59 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 12, Errors: 0, Skipped: 0, Time elapsed: 800.326 s <<< FAILURE! - in TestSuite
+getHomeListItems_two(com.Hackatone.TestClasses.GetHomeItems)  Time elapsed: 13.71 s  <<< FAILURE!
+java.lang.AssertionError: Failing the Testcase, Invalid Locator collection_menu_xpath
+	at com.Hackatone.TestClasses.GetHomeItems.getHomeListItems_two(GetHomeItems.java:40)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 38.116 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 37.044 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 37.726 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 37.694 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 37.472 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 36.942 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 37.95 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 148.034 s  <<< FAILURE!
+java.lang.AssertionError: 
+element not interactable
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7COG7LUP', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\SUBASH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51585}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 0a62aa7b101780f92584b98146c...}
+Session ID: 0a62aa7b101780f92584b98146c900b9
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:41)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 36.575 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 37.59 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
+testForGiftCards(com.Hackatone.TestClasses.GiftCard)  Time elapsed: 37.477 s  <<< FAILURE!
+java.lang.AssertionError: Wrong information Fed-Up :: Verify The Details in attached ScreenShot
+	at com.Hackatone.TestClasses.GiftCard.testForGiftCards(GiftCard.java:62)
+
